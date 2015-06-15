@@ -1,0 +1,80 @@
+﻿.wrapper1 {
+    margin: 0px auto;
+    width: 800px;
+    border: 1px solid gray;
+    
+}
+.container1 {
+    margin: 0px auto;
+    width: 798px;
+    border: 1px solid green;
+  
+}
+.contentHead {
+    font-size:25px;
+    font-weight: bold;
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: greenyellow;
+}
+.nameAboutContent {
+    min-height: 300px;
+    font-weight: bold;
+}
+.nameWrapper {
+    padding-top:5px;
+    padding-bottom: 5px;
+    height: 40px;
+}
+.nameContent {
+    float: left;
+    padding-left: 5px;
+    height: 20px;
+}
+.aboutWrapper {
+    padding-top:5px;
+    padding-bottom: 5px;
+    height: 250px;
+}
+.aboutContent {
+    float: left;
+    padding-left: 5px;
+    height: 20px;
+}
+
+.countryTextBoxContent {
+    float: left;
+    padding-left: 10px;
+    height: 30px;
+}
+
+.aboutTextBoxContent {
+    float: right;
+    padding-right: 5px;
+    height: 20px;
+}
+.buttonWrapper {
+    margin-top: 8px;
+    padding-left: 60px;
+    clear: both;
+    width: 210px;
+}
+
+.gridViewWrapper {
+    margin: 0px auto;
+    width: 795px;
+   
+    
+    padding-top: 10px;
+}
+
+.countryGridView th {
+    border: 1px solid gray;
+    text-align: center;
+    font-weight: bold;
+}
+.countryGridView td {
+    border: 1px solid gray;
+    padding-left: 3px;
+}

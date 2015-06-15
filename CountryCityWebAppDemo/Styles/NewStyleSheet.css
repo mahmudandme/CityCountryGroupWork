@@ -1,0 +1,47 @@
+﻿.wrapper2 {
+    width: 958px;
+   
+    margin: 0px auto;
+    min-height: 700px;
+}
+
+.headerText1 {
+     width: 938px;
+    padding: 10px 10px;
+    
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: greenyellow;   
+}
+.searchContent {
+    background-color: #D5D5D5;
+    width: 958px;
+    float: left;
+}
+fieldset {
+  
+    border: 1px solid gray;
+    height: 120px;
+ 
+}
+legend {
+    font-size: 20px;
+    font-weight: bold;
+}
+td {
+    padding: 5px;
+    font-weight: bold;
+}
+.searchOutputRegion {
+    width: 958px;
+    
+    height: 300px;
+}
+
+.citySearchGridViewClass th {
+    border: 1px solid gray;
+}
+.citySearchGridViewClass td {
+    border: 1px solid gray;
+}
